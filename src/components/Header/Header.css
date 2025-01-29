@@ -1,0 +1,13 @@
+nav a{
+    margin-right: 40px;
+    font-size: xx-large;
+    
+
+  
+}
+
+nav a.active{
+    text-decoration: underline;
+    color: peru;
+    background-color: aquamarine;
+}
